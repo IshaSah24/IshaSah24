@@ -10,6 +10,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - JavaScript
   - HTML
   - CSS
+  - Node Js
   - Learning : React.js, Express.js
    
 - Java Backend Stacks
