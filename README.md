@@ -6,6 +6,10 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
 
 ## Skills
 - Java
+- OS
+- Computer Network
+- SQL
+
 - Full Stack Development
   - JavaScript
   - HTML
@@ -18,8 +22,6 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - Microservices
  
 - Programming Languages
-  - OS
-  - SQL
-  - C
-  - C++
+  - Java
+  - C, C++
   - Python
