@@ -18,6 +18,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - Microservices
  
 - Programming Languages
+  - OS
   - SQL
   - C
   - C++
