@@ -6,6 +6,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
 
 ## Skills
 - Java
+- DSA
 - OS
 - Computer Network
 - SQL
