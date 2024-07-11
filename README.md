@@ -15,6 +15,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - HTML
   - CSS
   - Node Js
+  - Mongo DB
   - Learning : React.js, Express.js
    
 - Java Backend Stacks
