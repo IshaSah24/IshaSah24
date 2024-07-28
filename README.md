@@ -10,6 +10,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
 - OS
 - Computer Network
 - SQL
+- Cloud Computing
 
 - Full Stack Development
   - JavaScript
