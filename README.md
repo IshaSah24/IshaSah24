@@ -6,10 +6,10 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
 
 ## Skills
 - Java
-- DSA
+- DSA : Array,Sorting, Stacks & Queues, Recursion, LinkedList
 - OS
 - Computer Network
-- SQL
+- MySQL
 - Cloud Computing
 
 - Full Stack Development
@@ -17,12 +17,13 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - HTML
   - CSS
   - Node Js
+  - Express.js
   - Mongo DB
-  - Learning : React.js, Express.js
+  - Learning : ReactJs & ExpressJS
    
-- Java Backend Stacks
+- Java Backend Stacks (Eager to learn)
   - Spring Boot
-  - Microservices
+  - Microservices & more..
  
 - Programming Languages
   - Java
