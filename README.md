@@ -20,11 +20,7 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - Express.js
   - Mongo DB
   - Learning : ReactJs & ExpressJS
-   
-- Java Backend Stacks (Eager to learn)
-  - Spring Boot
-  - Microservices & more..
- 
+    
 - Programming Languages
   - Java
   - C, C++
