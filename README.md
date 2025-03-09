@@ -5,7 +5,7 @@ I'm a passionate learner, programmer and developer with focus on full stack deve
 Currently, I'm exploring full stack technologies, particularly React.js and Express.js. I have experience with SQL for database communication and additional knowledge of C, C++, and Python.
 
 ## Skills
-- Java
+- C++
 - DSA : Array,strings, Sorting, Stacks & Queues, Recursion, LinkedList
 - OS
 - Computer Network
