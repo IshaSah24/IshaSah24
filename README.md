@@ -5,9 +5,7 @@ A passionate learner and developer with focus on full stack development and have
 Currently, i'm working on  making projects and  full stack  field with reactJs, NextJs,  ExpressJs
 
 ## Skills
-- C++
 - DSA 
-- OS
 - Computer Network
 - MySQL
 - Cloud Computing
