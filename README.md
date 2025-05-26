@@ -1,8 +1,8 @@
 # Hi there, I'm Isha Sah 👋 
 
-I'm a passionate learner, programmer and developer with focus on full stack development and have experience with languages like JavaScript, HTML, and CSS. I'm curious about AI and eager to contribute to various development fields.
+A passionate learner and developer with focus on full stack development and have experience with languages like JavaScript, HTML, and CSS. I'm curious about AI and eager to contribute to various development fields.
 
-Currently, I'm exploring full stack technologies, particularly React.js and Express.js. I have experience with SQL for database communication and additional knowledge of C, C++, and Python.
+Currently, i'm working on  making projects and  full stack  field with reactJs, NextJs,  ExpressJs
 
 ## Skills
 - C++
@@ -16,7 +16,6 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - JavaScript
   - HTML
   - CSS
-  - Node Js
   - Express.js
   - Mongo DB
   - ReactJs
@@ -24,6 +23,5 @@ Currently, I'm exploring full stack technologies, particularly React.js and Expr
   - Tailwind CSS
     
 - Programming Languages
-  - Java
-  - C, C++
-  - Python
+  - C++
+  - java
