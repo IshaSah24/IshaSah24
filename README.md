@@ -6,7 +6,7 @@ Currently, i'm working on  making projects and  full stack  field with reactJs, 
 
 ## Skills
 - C++
-- DSA : Array,strings, Sorting, Stacks & Queues, Recursion, LinkedList
+- DSA 
 - OS
 - Computer Network
 - MySQL
