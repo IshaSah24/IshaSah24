@@ -1,6 +1,6 @@
 ### Hi, I'm Isha Sah 👋
 
-A passionate learner and full stack developer experienced in JavaScript, HTML, and CSS, curious about AI and eager to build impactful projects.
+I'm a full stack developer with hands-on experience in JavaScript, HTML, and CSS. I enjoy building projects, exploring AI, and learning new technologies to solve real-world problems.
 
 ## Skills
 
