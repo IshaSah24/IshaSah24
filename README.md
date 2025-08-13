@@ -6,7 +6,7 @@ I'm a full stack developer with hands-on experience in JavaScript, HTML, and CSS
 
 DSA & Computer Networks
 
-Databases & Cloud: MySQL, MongoDB, Cloud Computing
+Databases & Cloud: MySQL, MongoDB, AWS, CI/CD
 
 Full Stack: JavaScript, React.js, Next.js, Express.js, Tailwind CSS, HTML, CSS
 
