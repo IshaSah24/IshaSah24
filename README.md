@@ -8,7 +8,7 @@ DSA & Computer Networks
 
 Databases & Cloud: MySQL, MongoDB, AWS, CI/CD
 
-Full Stack: JavaScript, TypeScript React.js, Next.js, Express.js, Tailwind CSS, HTML, CSS
+Full Stack: JavaScript, TypeScript, React.js, Next.js, Express.js, Tailwind CSS, HTML, CSS
 
 Programming Languages: C++, Java
 
