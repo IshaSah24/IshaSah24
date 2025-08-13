@@ -9,6 +9,7 @@ Currently, i'm working on  making projects and  full stack  field with reactJs, 
 - Computer Network
 - MySQL
 - Cloud Computing
+- Linux (RHEL)
 
 - Full Stack Development
   - JavaScript
