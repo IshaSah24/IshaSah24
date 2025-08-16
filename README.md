@@ -17,7 +17,7 @@ I'm a full stack developer with hands-on experience in JavaScript, HTML, and CSS
   </div>
 
   <div>
-    <img src="Untitled.gif" alt="Spinning Badge" width="200"/>
+    <img src="/Untitled.gif" alt="Spinning Badge" width="200"/>
   </div>
 
 </div>
