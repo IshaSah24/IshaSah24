@@ -17,7 +17,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 </td>
 <td align="center" style="min-width: 300px;">
 
-<img src="/Untitled.gif" alt="Spinning Badge" width="200"/>
+[![Spinning Badge](./Untitled.gif)](https://leetcode.com/your-username)
 
 </td>
 </tr>
