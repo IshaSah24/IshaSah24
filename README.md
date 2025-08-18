@@ -26,6 +26,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
 <img src="https://imgs.search.brave.com/XmCIRWaUJO-NFwg9daIUK9bv7qQEZhpc02dEi4T45_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvQVdT/LUxvZ28tUE5HLUZp/bGUucG5n" width="40" height="40" alt="AWS"/>
 <img src="https://imgs.search.brave.com/0YnjcLti0EwLH-H73L-N2n6x-txAMX08rRbqocj3aRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMzEzNzAv/ZG9ja2VyLnN2Zw" width="40" height="40" alt="AWS"/>
+<img src="https://imgs.search.brave.com/3U1vd7CVBEJ-Zj-_stIRL1npu6BNFbvZxhF93bycoeo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbnV4LXBuZy9s/aW51eC1kZXNrdG9w/LWFwcHMtaWNvbi0x/OS5wbmc" width="40" height="40" alt="AWS"/>
 
 </div>
 </td>
