@@ -2,7 +2,7 @@
 
 I'm a full stack developer with hands-on experience in Reactjs, Node.Js TailwindCSS, TypeScript, Next.js, SQL and MongoDB. I enjoy building projects, exploring AI, and learning new technologies to solve real-world problems.
 
-<table>
+<table> 
 <tr>
 <td>
 
