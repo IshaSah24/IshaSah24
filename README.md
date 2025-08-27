@@ -6,7 +6,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 <tr>
 <td>
 
-## Skills  
+## Skills   
 
 - **DSA & Computer Networks**  
 - **Databases & Cloud**: MySQL, MongoDB, AWS, CI/CD  
