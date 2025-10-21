@@ -4,7 +4,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 
 <table> 
 <tr>  
-<td>  
+<td>   
 
 ## Skills   
 
