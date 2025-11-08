@@ -12,7 +12,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 - **Databases & Cloud**: Postgresql, MongoDB, AWS, CI/CD  
 - **Full Stack**: JavaScript, TypeScript, React.js, Next.js, Express.js, Tailwind CSS, HTML, CSS  
 - **Programming Languages**: C++, Java  
-- **Tools & OS**: Linux(RHEL) , Windows
+- **Tools & OS**: VsCode, CursorAi IDE,  Linux(RHEL) , Windows
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" padding="10px" width="40" height="40" alt="JavaScript"/>
