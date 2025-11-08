@@ -16,9 +16,12 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" padding="10px" width="40" height="40" alt="JavaScript"/>
+  <img src="https://imgs.search.brave.com/bkeUpGJTRCwo0ehA6bJmea8dNBrFoRjphnWY5-yIVIA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Vla2xvZ28u/Y29tL2xvZ28tcG5n/LzUyLzIvdHlwZXNj/cmlwdC1sb2dvLXBu/Z19zZWVrbG9nby01/MjY3MzAucG5n" padding="10px" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://imgs.search.brave.com/z4lAV8eIp1OusjWKE-i7pZfQ4T4z0-55Rhr-UeyNbvI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21w/YW5pZXNsb2dvLmNv/bS9pbWcvb3JpZy9z/dXBhYmFzZS01NTRh/Y2ExYy5wbmc_dD0x/NzIwMjQ0NDk0" width="40" height="40" alt="supabase"/>
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
