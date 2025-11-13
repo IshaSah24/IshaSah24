@@ -35,7 +35,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 
 </td>
 <td align="center" style="min-width: 300px;">
-  <button> <img src="/Untitled.gif" alt="Spinning Badge" width="200"/><button/>
+  <button> <img src="/gif.gif" alt="Spinning Badge" width="200"/><button/>
 </td>
 </tr>
 </table>
