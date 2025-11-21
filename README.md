@@ -11,7 +11,7 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
 - **DSA & Computer Networks**  
 - **Databases & Cloud**: Postgresql, MongoDB, AWS, CI/CD  
 - **Full Stack**: JavaScript, TypeScript, React.js, Next.js, Express.js, Tailwind CSS, HTML, CSS  
-- **Programming Languages**: C++, Java  
+- **Programming Languages**: Python, C++, Java  
 - **Tools & OS**: GPT, VsCode, CursorAi IDE,  Linux(RHEL) , Windows
 
 <div>
