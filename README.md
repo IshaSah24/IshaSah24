@@ -21,6 +21,9 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
   <img src="https://imgs.search.brave.com/LB5j9hB6KxjiQf_oIMQRKWi-H21mjOXwpL_KdG3ETGs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oZXht/b3MuY29tL2ZyZWVk/ZXZ0b29scy9zdmdf/aWNvbnMvbmV4dGpz/L25leHRqcy1vcmln/aW5hbC5zdmc" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" alt="Prisma"/>
+  <img src="https://imgs.search.brave.com/ho1W2ZrzunH755tmgRNKSkzmeICd6CKAuFuSLf8_NBQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9j/b2xvci8xMjAwL3By/aXNtYS1vcm0uanBn" width="40" height="40" alt="Prisma"/>
   <img src="https://imgs.search.brave.com/z4lAV8eIp1OusjWKE-i7pZfQ4T4z0-55Rhr-UeyNbvI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21w/YW5pZXNsb2dvLmNv/bS9pbWcvb3JpZy9z/dXBhYmFzZS01NTRh/Y2ExYy5wbmc_dD0x/NzIwMjQ0NDk0" width="40" height="40" alt="supabase"/>
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -28,9 +31,6 @@ I'm a full stack developer with hands-on experience in Reactjs, Node.Js Tailwind
   <img src="https://imgs.search.brave.com/035VGjn0RgjXJWfzLvXH_vnuvFpVCcbl1zM_GukencM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL2ZyZWUv/dGh1bWIvZnJlZS1w/eXRob24tM2QtaWNv/bi1wbmctZG93bmxv/YWQtNTMyNjM4NS5w/bmc" width="40" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://imgs.search.brave.com/ho1W2ZrzunH755tmgRNKSkzmeICd6CKAuFuSLf8_NBQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9j/b2xvci8xMjAwL3By/aXNtYS1vcm0uanBn" width="40" height="40" alt="Prisma"/>
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" alt="Prisma"/>
   <img src="https://imgs.search.brave.com/XmCIRWaUJO-NFwg9daIUK9bv7qQEZhpc02dEi4T45_Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvQVdT/LUxvZ28tUE5HLUZp/bGUucG5n" width="40"   height="40" alt="AWS"/>
   <img src="https://imgs.search.brave.com/0YnjcLti0EwLH-H73L-N2n6x-txAMX08rRbqocj3aRM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMzEzNzAv/ZG9ja2VyLnN2Zw" width="40" height="40" alt="AWS"/>
   <img src="https://imgs.search.brave.com/3U1vd7CVBEJ-Zj-_stIRL1npu6BNFbvZxhF93bycoeo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbnV4LXBuZy9s/aW51eC1kZXNrdG9w/LWFwcHMtaWNvbi0x/OS5wbmc"   width="40" height="40" alt="AWS"/>
