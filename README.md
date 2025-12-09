@@ -1,6 +1,6 @@
 ### Hi, I'm Isha Sah 👋
    
-I'm a full stack developer with hands-on experience in Reactjs, Node.Js TailwindCSS, TypeScript, Next.js, SQL and noSql database. I enjoy building projects, exploring AI, and learning new technologies to solve real-world problems.  
+I'm a full stack developer with hands-on experience in  Next.js, Node.Js, TypeScript, PostgreSQL and MongoDB. I enjoy building things and learning  new technologies.
 
 <table> 
 <tr>  
