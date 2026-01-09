@@ -5,7 +5,7 @@ I'm a full stack developer with hands-on experience in  Next.js, Node.Js, TypeSc
 <table> 
 <tr>  
 <td>   
-
+ 
 ## Skills   
 
 - **DSA & Computer Networks**  
