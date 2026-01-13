@@ -21,7 +21,6 @@ I'm a full stack developer with hands-on experience in  Next.js, Node.Js, TypeSc
   <img src="https://imgs.search.brave.com/LB5j9hB6KxjiQf_oIMQRKWi-H21mjOXwpL_KdG3ETGs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oZXht/b3MuY29tL2ZyZWVk/ZXZ0b29scy9zdmdf/aWNvbnMvbmV4dGpz/L25leHRqcy1vcmln/aW5hbC5zdmc" width="40" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" alt="Prisma"/>
   <img src="https://imgs.search.brave.com/ho1W2ZrzunH755tmgRNKSkzmeICd6CKAuFuSLf8_NBQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9j/b2xvci8xMjAwL3By/aXNtYS1vcm0uanBn" width="40" height="40" alt="Prisma"/>
   <img src="https://imgs.search.brave.com/z4lAV8eIp1OusjWKE-i7pZfQ4T4z0-55Rhr-UeyNbvI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21w/YW5pZXNsb2dvLmNv/bS9pbWcvb3JpZy9z/dXBhYmFzZS01NTRh/Y2ExYy5wbmc_dD0x/NzIwMjQ0NDk0" width="40" height="40" alt="supabase"/>
