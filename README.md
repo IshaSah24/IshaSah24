@@ -6,7 +6,7 @@ I'm a full stack developer with hands-on experience in  Next.js, Node.Js, TypeSc
 <tr>  
 <td>   
  
-## Skills   
+## Skills    
 
 - **DSA & Computer Networks**  
 - **Databases & Cloud**: Postgresql, MongoDB, AWS, CI/CD  
